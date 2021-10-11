@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=e600ac)](https://www.instagram.com/delta_venom77)
 [![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=email&logoColor=white&color=ff9933)](mailto:aditya.naranje7@gmail.com)
 
+
 ### Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical)
@@ -25,6 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats)
 
 
+[![aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deltavenom)](https://github.com/adityanaranje/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
