@@ -1,6 +1,4 @@
 
-
-
 ### Hi There! I'm Aditya Naranje 🙏 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/anaranje/)
