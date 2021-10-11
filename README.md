@@ -1,4 +1,7 @@
-### Hello Welcome to My Github Profile 
+
+
+
+### Hi There! I'm Aditya Naranje 🙏 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/anaranje/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=ff0000)](https://twitter.com/NaranjeAditya)
@@ -9,6 +12,9 @@
 
 
 ### Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
+
+I am a data science enthusiast . I love programming, sketching , listning songs and playing cricket.
+In data science I love to visualize the data and extracts insights from it. Also loves to build model when I get better accuracy 😆. 
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical)
 
