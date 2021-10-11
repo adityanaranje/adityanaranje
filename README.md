@@ -12,31 +12,22 @@
 [![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=email&logoColor=white&color=ff9933)](mailto:aditya.naranje7@gmail.com)
 
 
-Glad To See You Here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje})
+Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje})
 
 
-<h1>
-<p align="center" >
-     About Me 🧑
-  </p>
-  </h1>
+
+##     About Me 🧑
 
 I am a data science enthusiast . I love programming 💻, sketching 🖌️ , listning songs 🎵 and playing cricket 🏏.
 In data science I love to visualize the data and extracts insights from it. Also loves to build model when I get better accuracy 😆. 
 
-<h1>
-<p align="center" >
-     📈 My Github Stats
-  </p>
-  </h1>
+
+##     📈 My Github Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical)
 
-<h1>
-<p align="center" >
-     Top Repositories ⏫
-  </p>
-  </h1>
+
+##     Top Repositories ⏫
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=HEALTH-CARE&theme=blue-green)](https://github.com/adityanaranje/HEALTH-CARE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COMPUTER-VISION-PROJECT&theme=algolia)](https://github.com/adityanaranje/COMPUTER-VISION-PROJECT)
@@ -45,11 +36,9 @@ In data science I love to visualize the data and extracts insights from it. Also
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=house_price_predictor&theme=blueberry)](https://github.com/adityanaranje/house_price_predictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=chatbot&theme=midnight-purple)](https://github.com/adityanaranje/chatbot)
 
-<h1>
-<p align="center" >
-    🖥️ Top Languages
-  </p>
-  </h1>
+
+##    🖥️ Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats)
 
 
