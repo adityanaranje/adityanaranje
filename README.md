@@ -12,7 +12,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=email&logoColor=white&color=ff9933)](mailto:aditya.naranje7@gmail.com)
 
 
-Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje})
+Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
 
 
 
