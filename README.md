@@ -44,5 +44,6 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 [![aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deltavenom)](https://github.com/adityanaranje/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
