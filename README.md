@@ -15,6 +15,7 @@
 Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
 
 
+<img src="https://github.com/adityanaranje/adityanaranje/blob/main/datascience_back.jpeg" width="1000" height="400">
 
 ##     About Me 🧑
 
