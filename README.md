@@ -45,14 +45,14 @@ In data science I love to visualize the data and extracts insights from it. Also
 <img src="https://wakatime.com/share/@deltavenom/f7a85469-5d71-4616-860c-b7f6638d395b.png" width="800" height="500">
 
 ## Languages
-<img src="https://wakatime.com/share/@deltavenom/a934dce1-6869-4f55-89ac-d51c7afbf193.png" width="700" height="500">
+<img src="https://wakatime.com/share/@deltavenom/88b9bf0f-2e72-42a9-af81-c30d6c1396a6.png" width="700" height="500">
 
 ## Editors
-<img src="https://wakatime.com/share/@deltavenom/5fccd4ef-6f4a-4e67-b81a-73d5d5763e09.png" width="700" height="500">
+<img src="https://wakatime.com/share/@deltavenom/76bad857-7723-4711-bd07-b23dc406f8da.png" width="700" height="500">
 
 ## Operating Systems
-<img src="https://wakatime.com/share/@deltavenom/fbbddce1-fb3c-4a27-bdd7-32ad6e253001.png" width="700" height="500">
+<img src="https://wakatime.com/share/@deltavenom/b15614c4-97bd-406d-afcc-fc92e2da0e23.png" width="700" height="500">
 
 ## Categories
-<img src="https://wakatime.com/share/@deltavenom/72e63cf9-2771-44bc-84cc-f054e59195ad.png" width="700" height="500">
+<img src="https://wakatime.com/share/@deltavenom/59dd6ec2-2b0a-4018-ac07-f6328be9eae5.png" width="700" height="500">
 
