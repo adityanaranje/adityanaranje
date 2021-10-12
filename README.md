@@ -43,7 +43,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##    🖥️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img2.jpg" width="600" height="280">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img2.jpg" width="500" height="280">
 
 
 ## Coding Activity
