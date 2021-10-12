@@ -41,9 +41,18 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats)
 
+## Coding Activity
+<img src="https://wakatime.com/share/@deltavenom/f7a85469-5d71-4616-860c-b7f6638d395b.png" width="800" height="500">
 
-[![aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deltavenom)](https://github.com/adityanaranje/github-readme-stats)
+## Languages
+<img src="https://wakatime.com/share/@deltavenom/a934dce1-6869-4f55-89ac-d51c7afbf193.png" width="700" height="500">
 
+## Editors
+<img src="https://wakatime.com/share/@deltavenom/5fccd4ef-6f4a-4e67-b81a-73d5d5763e09.png" width="700" height="500">
 
+## Operating Systems
+<img src="https://wakatime.com/share/@deltavenom/fbbddce1-fb3c-4a27-bdd7-32ad6e253001.png" width="700" height="500">
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+## Categories
+<img src="https://wakatime.com/share/@deltavenom/72e63cf9-2771-44bc-84cc-f054e59195ad.png" width="700" height="500">
+
