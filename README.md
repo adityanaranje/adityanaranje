@@ -1,3 +1,6 @@
+<img src="https://github.com/adityanaranje/adityanaranje/blob/main/img5.jpg" width="1200" height="250">
+
+
 <h1>
 <p align="center" >
      Hi There! I'm Aditya Naranje 🙏
@@ -25,7 +28,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##     📈 My Github Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img3.jpg" width="400" height="190">
 
 
 ##     Top Repositories ⏫
@@ -40,7 +43,8 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##    🖥️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img2.jpg" width="600" height="280">
+
 
 ## Coding Activity
 <img src="https://wakatime.com/share/@deltavenom/f7a85469-5d71-4616-860c-b7f6638d395b.png" width="800" height="500">
@@ -57,3 +61,5 @@ In data science I love to visualize the data and extracts insights from it. Also
 ## Categories
 <img src="https://wakatime.com/share/@deltavenom/59dd6ec2-2b0a-4018-ac07-f6328be9eae5.png" width="700" height="500">
 
+
+<img src="https://github.com/adityanaranje/adityanaranje/blob/main/img4.jpg" width="1200" height="300">
