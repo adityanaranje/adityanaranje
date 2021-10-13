@@ -1,4 +1,4 @@
-<img src="https://github.com/adityanaranje/adityanaranje/blob/main/img5.jpg" width="1200" height="250">
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img5.jpg" width="1200" height="250">
 
 
 <h1>
@@ -18,7 +18,7 @@
 Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
 
 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/main/datascience_back.jpeg" width="1000" height="400">
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
 
 ##     About Me 🧑
 
@@ -28,7 +28,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##     📈 My Github Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img3.jpg" width="300" height="190">
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img3.jpg" width="300" height="190">
 
 
 ##     Top Repositories ⏫
@@ -43,11 +43,11 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##    🖥️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img2.jpg" width="500" height="280">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img2.jpg" width="500" height="280">
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/main/img4.jpg" width="1200" height="300">
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img4.jpg" width="1200" height="300">
