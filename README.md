@@ -47,6 +47,12 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 
 <!--START_SECTION:waka-->
+```text
+Other        37 mins         ██████████░░░░░░░░░░░░░░░   40.23 % 
+HTML         31 mins         ████████▓░░░░░░░░░░░░░░░░   34.05 % 
+Python       22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
 <!--END_SECTION:waka-->
 
 
