@@ -46,20 +46,8 @@ In data science I love to visualize the data and extracts insights from it. Also
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img2.jpg" width="500" height="280">
 
 
-## Coding Activity
-<img src="https://wakatime.com/share/@deltavenom/f7a85469-5d71-4616-860c-b7f6638d395b.png" width="800" height="500">
-
-## Languages
-<img src="https://wakatime.com/share/@deltavenom/88b9bf0f-2e72-42a9-af81-c30d6c1396a6.png" width="700" height="500">
-
-## Editors
-<img src="https://wakatime.com/share/@deltavenom/76bad857-7723-4711-bd07-b23dc406f8da.png" width="700" height="500">
-
-## Operating Systems
-<img src="https://wakatime.com/share/@deltavenom/b15614c4-97bd-406d-afcc-fc92e2da0e23.png" width="700" height="500">
-
-## Categories
-<img src="https://wakatime.com/share/@deltavenom/59dd6ec2-2b0a-4018-ac07-f6328be9eae5.png" width="700" height="500">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <img src="https://github.com/adityanaranje/adityanaranje/blob/main/img4.jpg" width="1200" height="300">
