@@ -1,6 +1,6 @@
 <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img5.jpg" width="1200" height="250">
 
-
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/welcome.gif" width="1200" height="250">
 <h1>
 <p align="center" >
      Hi There! I'm Aditya Naranje 🙏
