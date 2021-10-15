@@ -63,5 +63,5 @@ JavaScript   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <p align="center">
-    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" >
+    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150>
  </p>
