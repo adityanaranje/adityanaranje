@@ -47,7 +47,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##    🖥️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img2.jpg" width="500" height="280">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="500" height="280">
 
 
 <!--START_SECTION:waka-->
@@ -62,4 +62,6 @@ JavaScript   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img4.jpg" width="1200" height="300">
+<p align="center">
+    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" >
+ </p>
