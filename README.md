@@ -1,13 +1,16 @@
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img5.jpg" width="1200" height="250">
-
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.jpg" width="1200" height="250">
 
 <p align="center">
     <img src="https://github.com/adityanaranje/adityanaranje/blob/master/welcome.gif" >
  </p>
+ <p align="center">
+   <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu2.gif" width="140" height="130">
+ </p>
+
 
 <h1>
 <p align="center" >
-     Hi There! I'm Aditya Naranje 🙏
+     Hi There! I'm Aditya Naranje 🙏 
   </p>
   </h1>
 
@@ -32,7 +35,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##     📈 My Github Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/charmander1.gif" width="300" height="190">
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/charmander2.gif" width="300" height="190">
 
 
 ##     Top Repositories ⏫
@@ -63,7 +66,10 @@ JavaScript   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-
 <p align="center">
-    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150>
+    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="160" height="180">
+</p>
+    
+<p align="center">
+    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150> 
  </p>
