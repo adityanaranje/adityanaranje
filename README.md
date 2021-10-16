@@ -37,13 +37,15 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##     Top Repositories ⏫
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=HEALTH-CARE&theme=blue-green)](https://github.com/adityanaranje/HEALTH-CARE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COMPUTER-VISION-PROJECT&theme=algolia)](https://github.com/adityanaranje/COMPUTER-VISION-PROJECT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Store_Sales_Prediction&theme=ocean_dark)](https://github.com/adityanaranje/Store_Sales_Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=house_price_predictor&theme=blueberry)](https://github.com/adityanaranje/house_price_predictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=BOOK-RECOMMENDER&theme=midnight-purple)](https://github.com/adityanaranje/BOOK-RECOMMENDER)
 
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Store_Sales_Prediction&theme=ocean_dark)](https://github.com/adityanaranje/Store_Sales_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=BOOK-RECOMMENDER&theme=midnight-purple)](https://github.com/adityanaranje/BOOK-RECOMMENDER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COMPUTER-VISION-PROJECT&theme=algolia)](https://github.com/adityanaranje/COMPUTER-VISION-PROJECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=HEALTH-CARE&theme=blue-green)](https://github.com/adityanaranje/HEALTH-CARE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=house_price_predictor&theme=blueberry)](https://github.com/adityanaranje/house_price_predictor)
 
 ##    🖥️ Top Languages
 
