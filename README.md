@@ -32,7 +32,7 @@ In data science I love to visualize the data and extracts insights from it. Also
 
 ##     📈 My Github Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img3.jpg" width="300" height="190">
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/charmander1.gif" width="300" height="190">
 
 
 ##     Top Repositories ⏫
