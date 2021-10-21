@@ -29,8 +29,7 @@ Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id
 
 ##     About Me 🧑
 
-I am a data science enthusiast . I love programming 💻, sketching 🖌️ , listning songs 🎵 and playing cricket 🏏.
-In data science I love to visualize the data and extracts insights from it. Also loves to build model when I get better accuracy 😆. 
+I am a data science enthusiast . I love programming 💻, sketching 🖌️ , listning songs 🎵 , playing cricket 🏏,volleyball 🏐 and mobile games 🎮. 
 
 
 ##     📈 My Github Stats
