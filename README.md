@@ -57,7 +57,7 @@ I am a data science enthusiast . I love programming 💻, sketching 🖌️ , li
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=house_price_predictor&theme=blueberry)](https://github.com/adityanaranje/house_price_predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FLIGHT-FARE-PREDICTION&theme=blueberry)](https://github.com/adityanaranje/FLIGHT-FARE-PREDICTION)
 
 ##    🖥️ Top Languages
 
