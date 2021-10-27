@@ -66,7 +66,7 @@ I am a data science enthusiast . I love programming 💻, sketching 🖌️ , li
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
 Other        14 hrs 12 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.34 % 
 HTML         54 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.74 % 
