@@ -74,10 +74,8 @@ C            1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="160" height="180">
-</p>
-    
+
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="250" height="200"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical)](https://git.io/streak-stats)
 <p align="center">
     <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150> 
  </p>
