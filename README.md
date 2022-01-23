@@ -18,7 +18,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=ff0000)](https://twitter.com/NaranjeAditya)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=66ff66)](https://www.kaggle.com/adityanaranje)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=cyan)](https://www.facebook.com/mahindra.dhoni.710)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=e600ac)](https://www.instagram.com/delta_venom77)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=e600ac)](https://www.instagram.com/delta.venom77)
 [![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=email&logoColor=white&color=ff9933)](mailto:aditya.naranje7@gmail.com)
 
 
