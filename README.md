@@ -68,6 +68,8 @@ I am a data science enthusiast . I love programming 💻, sketching 🖌️ , li
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 4 hrs 30 mins
+
 Python   4 hrs 8 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.80 % 
 HTML     22 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.20 % 
 ```
