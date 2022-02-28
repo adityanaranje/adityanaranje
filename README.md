@@ -51,7 +51,7 @@ I am a data science enthusiast . I love programming 💻, sketching 🖌️ , li
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=T20-1ST-INNING-SCORE-PREDICTION&theme=jolly)](https://github.com/adityanaranje/T20-1ST-INNING-SCORE-PREDICTION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COMPUTER-VISION-PROJECT&theme=algolia)](https://github.com/adityanaranje/COMPUTER-VISION-PROJECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=algolia)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Store_Sales_Prediction&theme=ocean_dark)](https://github.com/adityanaranje/Store_Sales_Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Lung-Cancer-Prediction&theme=midnight-purple)](https://github.com/adityanaranje/Lung-Cancer-Prediction)
 
