@@ -39,24 +39,20 @@ I am a data science enthusiast . I love programming 💻, sketching 🖌️ , li
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/charmander2.gif" width="300" height="190">
 
 
-## Ongoing 🔘
 
+##     Deployed Projects ⏫
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=HEALTH-CARE&theme=maroongold)](https://github.com/adityanaranje/HEALTH-CARE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=blue-green)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
 
-
-
-
-
-##     Completed ⏫
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=T20-1ST-INNING-SCORE-PREDICTION&theme=jolly)](https://github.com/adityanaranje/T20-1ST-INNING-SCORE-PREDICTION)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=algolia)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Store_Sales_Prediction&theme=ocean_dark)](https://github.com/adityanaranje/Store_Sales_Prediction)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=BOOK-RECOMMENDER&theme=ocean_dark)](https://github.com/adityanaranje/BOOK-RECOMMENDER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Lung-Cancer-Prediction&theme=midnight-purple)](https://github.com/adityanaranje/Lung-Cancer-Prediction)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Google-App-Store-Analysis-Ineuron-Internship&theme=ocean_dark)](https://github.com/adityanaranje/Google-App-Store-Analysis-Ineuron-Internship)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=T-20-Cricket-Data-Analysis-Using-Streamlit&theme=midnight-purple)](https://github.com/adityanaranje/T-20-Cricket-Data-Analysis-Using-Streamlit)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FLIGHT-FARE-PREDICTION&theme=blueberry)](https://github.com/adityanaranje/FLIGHT-FARE-PREDICTION)
