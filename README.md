@@ -65,7 +65,7 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 31 July 2022 - To: 07 August 2022
 
 Python   54 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
