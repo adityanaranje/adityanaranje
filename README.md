@@ -65,9 +65,10 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 21 October 2022
+From: 15 October 2022 - To: 22 October 2022
 
-Other    59 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.20 %
+Python   26 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.34 %
+CSV      0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.66 %
 ```
 
 <!--END_SECTION:waka-->
