@@ -65,9 +65,7 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
-
-Other    56 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
