@@ -40,7 +40,7 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 
 
 
-##     Deployed Projects ⏫
+##     My Projects ⏫
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=HEALTH-CARE&theme=maroongold)](https://github.com/adityanaranje/HEALTH-CARE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=blue-green)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
