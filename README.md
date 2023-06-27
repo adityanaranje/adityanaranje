@@ -1,8 +1,8 @@
 <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img5.jpg" width="1200" height="250">
 
-<p align="center">
+<div align="center">
     <img src="https://github.com/adityanaranje/adityanaranje/blob/master/welcome.gif" >
- </p>
+ </div>
  <p align="center">
    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu2.gif" width="140" height="130">
  </p>
