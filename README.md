@@ -1,17 +1,8 @@
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/img5.jpg" width="1200" height="250">
-
-<div align="center">
-    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/welcome.gif" >
- </div>
- <p align="center">
-   <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu2.gif" width="140" height="130">
- </p>
+![](https://github.com/adityanaranje/adityanaranje/blob/master/images/gradientline.gif)
 
 
-<h1>
-<p align="center" >
+<h1 align="center" >
      Hi There! I'm Aditya Naranje 🙏 
-  </p>
   </h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/anaranje/)
@@ -77,6 +68,9 @@ JavaScript   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="250" height="200"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical)](https://git.io/streak-stats)
+
 <p align="center">
     <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150> 
  </p>
+
+![](https://github.com/adityanaranje/adityanaranje/blob/master/images/skills.gif)
