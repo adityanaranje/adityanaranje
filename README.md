@@ -56,7 +56,7 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 CSV     33 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.80 %
 Other   28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.20 %
