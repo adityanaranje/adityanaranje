@@ -42,7 +42,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&layout=compact&theme=radical" width="49%" style="margin-right: 30px;">
 
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="49%" height="200px" style="margin-left: 30px;border-radius: 15px;">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="49%" height="215px" style="margin-left: 30px;border-radius: 15px;">
 
 </div>
 
