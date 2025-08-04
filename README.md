@@ -1,35 +1,55 @@
-![](https://github.com/adityanaranje/adityanaranje/blob/master/images/gradientline.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/images/gradientline.gif">
+</p>
+
+<h1 align="center">Hey 👋, I'm Aditya Naranje</h1>
+
+<p align="center">
+  🚀 Data Enthusiast | 🧠 GenAI Explorer | 🎯 Problem Solver | 💡 Lifelong Learner
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anaranje/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/NaranjeAditya"><img src="https://img.shields.io/badge/Twitter-Follow-red?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.kaggle.com/adityanaranje"><img src="https://img.shields.io/badge/Kaggle-Explore-66ff66?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="mailto:aditya.naranje7@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
+</p>
+
+## 👨‍💻 About Me
+
+```
+     A data guy with a creative twist 🎨
+
+     • 🔭 Currently building tools using Generative AI & LLMs  
+     • 🌱 Learning full-stack app dev for AI-powered tools  
+     • 🤖 Interested in ML, LangChain, Streamlit, and automation  
+     • 🏏 Off-screen: cricket, volleyball, mobile gaming & sketching
+```
 
 
-<h1 align="center" >
-     Hi There! I'm Aditya Naranje 🙏 
-  </h1>
+---
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/anaranje/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=ff0000)](https://twitter.com/NaranjeAditya)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=66ff66)](https://www.kaggle.com/adityanaranje)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=cyan)](https://www.facebook.com/mahindra.dhoni.710)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=e600ac)](https://www.instagram.com/delta.venom7)
-[![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=email&logoColor=white&color=ff9933)](mailto:aditya.naranje7@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=ffffff)](https://medium.com/@adityanaranje)
+## 🌍 Top Languages
 
+<div style="display: flex; align-items: center;">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&layout=compact&theme=radical" width="49%" style="margin-right: 30px;">
 
-Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adityanaranje}.${adityanaranje/adityanaranje.id})
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="49%" height="270px" style="margin-left: 30px;border-radius: 15px;">
+
+</div>
 
 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
-
-##     About Me 🧑
-
-I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , listning songs 🎵 , playing cricket 🏏,volleyball 🏐 and mobile games 🎮. 
 
 
-##     📈 My Github Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=radical) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/charmander2.gif" width="300" height="190">
-
-
+--- 
 
 ##     My Projects ⏫
 
@@ -48,9 +68,7 @@ I am a data analysis enthusiast . I love programming 💻, sketching 🖌️ , l
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FLIGHT-FARE-PREDICTION&theme=blueberry)](https://github.com/adityanaranje/FLIGHT-FARE-PREDICTION)
 
-##    🖥️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&langs_count=8&theme=radical)](https://github.com/adityanaranje/github-readme-stats) <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="500" height="280">
 
 
 <!--START_SECTION:waka-->
@@ -66,11 +84,27 @@ Other    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+---
 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="250" height="200"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical)](https://git.io/streak-stats)
+📊 GitHub Stats
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=tokyonight" width="46%" height="360px"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=tokyonight" width="48%" height="440px"/>
+<br><br><br><br><br><br>
+---
+
+<div style="display: flex; align-items: center;">
+
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="250" height="200" style="border-radius: 15px; margin-right: 30px;">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical">
+  </a>
+
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu4.gif" width="250" height="200" style="border-radius: 15px; margin-right: 30px;">
+
+</div>
+
 
 <p align="center">
     <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width=400 height=150> 
  </p>
-
-![](https://github.com/adityanaranje/adityanaranje/blob/master/images/skills.gif)
