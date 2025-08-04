@@ -42,7 +42,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&layout=compact&theme=radical" width="49%" style="margin-right: 30px;">
 
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="49%" height="240px" style="margin-left: 30px;border-radius: 15px;">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/img1.gif" width="49%" height="200px" style="margin-left: 30px;border-radius: 15px;">
 
 </div>
 
@@ -99,8 +99,6 @@ Other    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical" width="500">
   </a>
-
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu4.gif" width="230" height="200" style="border-radius: 15px; margin-right: 30px;">
 
 </div>
 
