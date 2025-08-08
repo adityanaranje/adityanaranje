@@ -74,7 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2025 - To: 07 August 2025
+From: 01 August 2025 - To: 08 August 2025
 
 Python   10 hrs 13 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.60 %
 Bash     4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.80 %
