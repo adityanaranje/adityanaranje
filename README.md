@@ -89,16 +89,17 @@ Bash     4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 📊 GitHub Stats
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=blue-green" width="46%" height="360px"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=blue-green" width="48%" height="440px"/>
-<br><br><br><br><br><br>
----
 
 <div style="display: flex; align-items: center;">
 
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="230" height="200" style="border-radius: 15px; margin-right: 30px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=blue-green" width="1000">
+  </a>
+
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="230" height="200" style="border-radius: 15px; margin-right: 30px;align-items: center;">
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=midnight-purple" width="500">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=midnight-purple" width="1000">
   </a>
 
 </div>
