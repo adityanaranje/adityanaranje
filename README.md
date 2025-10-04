@@ -53,20 +53,21 @@
 
 ##     My Projects ⏫
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=maroongold)](https://github.com/adityanaranje/CODEVO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=blue-green)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=midnight-purple)](https://github.com/adityanaranje/CODEVO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=dark)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FITNESS-CHATBOT&theme=jolly)](https://github.com/adityanaranje/FITNESS-CHATBOT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=algolia)](https://github.com/adityanaranje/SparkLine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FITNESS-CHATBOT&theme=omni)](https://github.com/adityanaranje/FITNESS-CHATBOT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=blue-green)](https://github.com/adityanaranje/SparkLine)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=STORY-GENERATOR&theme=ocean_dark)](https://github.com/adityanaranje/STORY-GENERATOR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COLD_MAIL_GENERATOR&theme=midnight-purple)](https://github.com/adityanaranje/COLD_MAIL_GENERATOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=STORY-GENERATOR&theme=chartreuse-dark)](https://github.com/adityanaranje/STORY-GENERATOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COLD_MAIL_GENERATOR&theme=ocean_dark)](https://github.com/adityanaranje/COLD_MAIL_GENERATOR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Onyx-Data-DNA-Challenges&theme=dark)](https://github.com/adityanaranje/Onyx-Data-DNA-Challenges)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=algolia)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=gotham)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=vision-friendly-dark)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=outrun)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=blueberry)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=highcontrast)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Onyx-Data-DNA-Challenges&theme=blueberry)](https://github.com/adityanaranje/Onyx-Data-DNA-Challenges)
+
 
 
 
@@ -88,7 +89,7 @@ Bash     4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 📊 GitHub Stats
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=tokyonight" width="46%" height="360px"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=tokyonight" width="48%" height="440px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityanaranje&show_icons=true&theme=blue-green" width="46%" height="360px"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=blue-green" width="48%" height="440px"/>
 <br><br><br><br><br><br>
 ---
 
@@ -97,7 +98,7 @@ Bash     4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pikachu3.gif" width="230" height="200" style="border-radius: 15px; margin-right: 30px;">
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=radical" width="500">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=midnight-purple" width="500">
   </a>
 
 </div>
