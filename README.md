@@ -61,8 +61,8 @@
 
 ##     My Projects ⏫
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=midnight-purple)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=dark)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=midnight-purple)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FITNESS-CHATBOT&theme=omni)](https://github.com/adityanaranje/FITNESS-CHATBOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=blue-green)](https://github.com/adityanaranje/SparkLine)
