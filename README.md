@@ -19,9 +19,9 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman1.gif" width=240 height=170> 
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman1.gif" width=260 height=180> 
 <img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman2.gif" width=300 height=160> 
-<img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman1.gif" width=240 height=170> 
+<img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman1.gif" width=260 height=180> 
 </div>
 
 ---
@@ -112,9 +112,9 @@ YAML   52 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/chari.gif" width="180" height="200" style="border-radius: 15px;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width="410" height="200" style="border-radius: 15px; margin: 0 20px;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pic.gif" width="180" height="200" style="border-radius: 15px;">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/chari.gif" width="190" height="200" style="border-radius: 15px;">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width="420" height="200" style="border-radius: 15px; margin: 0 20px;">
+  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pic.gif" width="190" height="200" style="border-radius: 15px;">
 </div>
 
 
