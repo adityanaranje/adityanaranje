@@ -61,14 +61,14 @@
 
 ##     My Projects ⏫
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=midnight-purple)](https://github.com/adityanaranje/CODEVO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=midnight-purple)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=dark)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FITNESS-CHATBOT&theme=omni)](https://github.com/adityanaranje/FITNESS-CHATBOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=blue-green)](https://github.com/adityanaranje/SparkLine)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=STORY-GENERATOR&theme=chartreuse-dark)](https://github.com/adityanaranje/STORY-GENERATOR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=COLD_MAIL_GENERATOR&theme=ocean_dark)](https://github.com/adityanaranje/COLD_MAIL_GENERATOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=ocean_dark)](https://github.com/adityanaranje/CODEVO)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=gotham)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=vision-friendly-dark)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
