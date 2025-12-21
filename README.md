@@ -61,6 +61,12 @@
 
 ##     My Projects ⏫
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Langgraph-Customer-Support-Multi-Agent&theme=gotham)](https://github.com/adityanaranje/Langgraph-Customer-Support-Multi-Agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SLM-From-Scratch&theme=vision-friendly-dark)](https://github.com/adityanaranje/SLM-From-Scratch)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FineTune-LLM&theme=highcontrast)](https://github.com/adityanaranje/FineTune-LLM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Spotify-Churn-API&theme=blueberry)](https://github.com/adityanaranje/Spotify-Churn-API)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=midnight-purple)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
 
