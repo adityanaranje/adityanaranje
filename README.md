@@ -65,15 +65,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SLM-From-Scratch&theme=vision-friendly-dark)](https://github.com/adityanaranje/SLM-From-Scratch)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FineTune-LLM&theme=highcontrast)](https://github.com/adityanaranje/FineTune-LLM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Spotify-Churn-API&theme=blueberry)](https://github.com/adityanaranje/Spotify-Churn-API)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=midnight-purple)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FITNESS-CHATBOT&theme=omni)](https://github.com/adityanaranje/FITNESS-CHATBOT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=blue-green)](https://github.com/adityanaranje/SparkLine)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=STORY-GENERATOR&theme=chartreuse-dark)](https://github.com/adityanaranje/STORY-GENERATOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SparkLine&theme=blue-green)](https://github.com/adityanaranje/SparkLine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=ocean_dark)](https://github.com/adityanaranje/CODEVO)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=gotham)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
