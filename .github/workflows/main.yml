@@ -3,9 +3,9 @@ name: Waka Readme + Snake Animation
 on:
   workflow_dispatch:
   schedule:
-    # WakaTime runs every 3 hours
+    # WakaTime every 3 hours
     - cron: "0 */3 * * *"
-    # Snake animation runs every 12 hours
+    # Snake every 12 hours
     - cron: "0 */12 * * *"
 
 jobs:
@@ -18,30 +18,28 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_LINES_OF_CODE: true
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_LANGUAGE: true
-          SHOW_OS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_SHORT_INFO: true
 
   generate-snake:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
-          github_user_name: adityanaranje   # <-- change this
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: adityanaranje
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
