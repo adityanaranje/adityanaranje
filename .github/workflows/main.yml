@@ -3,7 +3,9 @@ name: Waka Readme + Snake Animation
 on:
   workflow_dispatch:
   schedule:
+    # WakaTime every 3 hours
     - cron: "0 */3 * * *"
+    # Snake every 12 hours
     - cron: "0 */12 * * *"
 
 jobs:
@@ -31,7 +33,7 @@ jobs:
         run: mkdir -p dist
 
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: adityanaranje
           svg_out_path: dist/github-contribution-grid-snake.svg
