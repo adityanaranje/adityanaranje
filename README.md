@@ -30,6 +30,9 @@
   <img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
 </p>
 
+![Snake animation](https://github.com/adityanaranje/adityanaranje/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 👨‍💻 About Me
 
 ```
