@@ -31,7 +31,7 @@
   <img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/adityanaranje/adityanaranje/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/adityanaranje/adityanaranje/output/github-contribution-grid-snake.gif" />
 
 ## 👨‍💻 About Me
 
