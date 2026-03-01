@@ -3,9 +3,7 @@ name: Waka Readme + Snake Animation
 on:
   workflow_dispatch:
   schedule:
-    # WakaTime every 3 hours
     - cron: "0 */3 * * *"
-    # Snake every 12 hours
     - cron: "0 */12 * * *"
 
 jobs:
@@ -29,12 +27,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # ✅ Ensure dist folder exists (IMPORTANT FIX)
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: adityanaranje
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
