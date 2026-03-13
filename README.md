@@ -71,8 +71,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SLM-From-Scratch&theme=vision-friendly-dark)](https://github.com/adityanaranje/SLM-From-Scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FineTune-LLM&theme=highcontrast)](https://github.com/adityanaranje/FineTune-LLM)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=RAG-Chatbot-AWS-Bedrock-Agentcore&theme=omni)](https://github.com/adityanaranje/RAG-Chatbot-AWS-Bedrock-Agentcore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=EMAIL-SUMMARY-AGENT-TELEGRAM&theme=blue-green)](https://github.com/adityanaranje/EMAIL-SUMMARY-AGENT-TELEGRAM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=ocean_dark)](https://github.com/adityanaranje/CODEVO)
