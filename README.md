@@ -12,7 +12,7 @@
 <p align="center">
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adityanaranje&repo=adityanaranje&countColorcountColor&countColor=%237B1E7B"/>
   <a href="https://www.linkedin.com/in/anaranje/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/NaranjeAditya"><img src="https://img.shields.io/badge/Twitter-Follow-red?style=for-the-badge&logo=twitter"></a>
+  <a href="https://twitter.com/aditya_naranje"><img src="https://img.shields.io/badge/Twitter-Follow-red?style=for-the-badge&logo=twitter"></a>
   <a href="https://www.kaggle.com/adityanaranje"><img src="https://img.shields.io/badge/Kaggle-Explore-66ff66?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="mailto:aditya.naranje7@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
