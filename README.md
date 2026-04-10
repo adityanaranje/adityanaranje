@@ -60,11 +60,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityanaranje&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 --- 
 
@@ -80,6 +75,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Langgraph-Customer-Support-Multi-Agent&theme=gotham)](https://github.com/adityanaranje/Langgraph-Customer-Support-Multi-Agent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=midnight-purple)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SLM-From-Scratch&theme=vision-friendly-dark)](https://github.com/adityanaranje/SLM-From-Scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FineTune-LLM&theme=highcontrast)](https://github.com/adityanaranje/FineTune-LLM)
