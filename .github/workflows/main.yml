@@ -28,15 +28,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Create dist folder
       - name: Create dist folder
         run: mkdir -p dist
 
-      # Step 3: Generate the snake animations (UPDATED)
+      # ✅ FIXED: removed ocean.gif (this was causing the progress bar)
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -44,11 +42,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Deploy to output branch (UPDATED)
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
