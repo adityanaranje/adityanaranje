@@ -63,6 +63,14 @@
 
 --- 
 
+<div align="center">
+  
+  ![snake gif](https://github.com/adityanaranje/adityanaranje/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
 ##     My Projects ⏫
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Langgraph-Customer-Support-Multi-Agent&theme=gotham)](https://github.com/adityanaranje/Langgraph-Customer-Support-Multi-Agent)
